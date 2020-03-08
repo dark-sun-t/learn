@@ -1,2 +1,2 @@
 # learn
-Coursera projects to collaborate with peers
+Coursera Capstone project to collaborate with peers
